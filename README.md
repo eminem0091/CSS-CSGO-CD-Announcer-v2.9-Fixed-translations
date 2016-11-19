@@ -1,4 +1,4 @@
-# CSS-CSGO-CD-Announcer
+# CSS-CSGO-CD-Announcer-v2.9-Fixed-translations
 CD Announcer v2.9 - Fixed colors and added [+] connected / [-] disconnected
 
 Picture: https://ctrlv.cz/shots/2016/11/19/cc4T.png
